@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="818f5325-482f-4cc9-938a-e42298e42af4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/laba1_asheralieva.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba1_asheralieva_zhazgul_ain1-22.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Global Population Trends(2016-2022).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laba2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +47,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\laba1_asheralieva" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,11 +73,22 @@
       <workItem from="1726414581486" duration="2368000" />
       <workItem from="1726417685002" duration="108000" />
       <workItem from="1726418058995" duration="7587000" />
-      <workItem from="1726638389769" duration="337000" />
+      <workItem from="1726638389769" duration="976000" />
+      <workItem from="1726744242187" duration="4539000" />
+      <workItem from="1726820803770" duration="69000" />
+      <workItem from="1727197013982" duration="7113000" />
+      <workItem from="1727281468981" duration="5481000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <inline-watch fileUrl="notebook://C:/Users/HP/PycharmProjects/laba1_asheralieva/laba2.ipynb" line="0">
+        <watch expression="a" language="Jupyter" />
+      </inline-watch>
+    </watches-manager>
   </component>
 </project>
